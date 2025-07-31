@@ -728,6 +728,7 @@ section{
     bottom: 2.1rem;
     right: 2.1rem;
     text-decoration: none;
+    display: none;
 }
 .top i {
     color:#000;
