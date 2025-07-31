@@ -728,6 +728,8 @@ section{
     bottom: 2.1rem;
     right: 2.1rem;
     text-decoration: none;
+    transition: opacity 0.4s ease;
+    z-index: 1000 ;
     display: none;
 }
 .top i {
