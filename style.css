@@ -377,19 +377,19 @@ section{
     width: 90%;
 }
 .progress-line.CSS span{
-    width: 85%;
+    width: 80%;
 }
 .progress-line.JavaScript span{
-    width: 75%;
-}
-.progress-line.PHP span{
     width: 70%;
 }
+.progress-line.PHP span{
+    width: 65%;
+}
 .progress-line.Python span{
-    width: 50%;
+    width: 60%;
 }
 .progress-line.React span{
-    width: 80%;
+    width: 70%;
 }
 .progress-line span::after{
     position: absolute;
@@ -409,23 +409,23 @@ section{
 }
 
 .progress-line.CSS span::after{
-    content: "60%";
+    content: "80%";
 }
 
 .progress-line.JavaScript span::after{
-    content: "85%";
+    content: "70%";
 }
 
 .progress-line.PHP span::after{
-    content: "90%";
+    content: "65%";
 }
 
 .progress-line.Python span::after{
-    content: "90%";
+    content: "60%";
 }
 
 .progress-line.React span::after{
-    content: "90%";
+    content: "70%";
 }
 
 .progress-line span::before{
